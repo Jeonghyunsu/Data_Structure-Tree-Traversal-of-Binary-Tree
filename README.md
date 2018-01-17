@@ -1,4 +1,4 @@
-# Tree-Traversal-of-Binary-Tree
+# Tree-Traversal-of-Binary-Tree [Data Structure]
 
 * Objective: write a C++ program for constructing a heap (min heap) and printing it in three different forms.
 * Input: heap operations of size n from keyboard
